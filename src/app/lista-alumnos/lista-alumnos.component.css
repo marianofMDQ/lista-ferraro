@@ -1,0 +1,18 @@
+.desaprobado{
+    background-color: red;
+}
+
+.aprobado{
+    background-color: blue;
+}
+
+#leyenda{
+    width: 20%;
+}
+
+.cuadrado{
+    display: inline-block;
+    margin: 0 10px;
+    width: 16px;
+    height: 16px;
+}
